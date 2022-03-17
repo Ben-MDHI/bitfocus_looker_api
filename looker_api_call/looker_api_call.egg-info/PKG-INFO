@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: looker-api-call
+Version: 0.1
+Summary: Functions for pulling queries from the Bitfocus Looker api and converting to dataframes using pandas
+Home-page: https://github.com/Ben-MDHI/bitfocus_looker_api.git
+Author: Benjamin Lordi
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+
